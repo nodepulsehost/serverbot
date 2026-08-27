@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "YamiNetwork.aternos.me",
+    "ip": "yaminetwork.ryzn.pro",
     "port": 57831,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
